@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mw7ee8de4-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/mw7ee8de4-dotnet-basic-gitops
